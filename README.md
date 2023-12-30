@@ -5,3 +5,5 @@ Here you can see the source code of my game, this is to let you know that it is 
 If you wish to share my game, please use the Itch.io link (Then I can see the downloads )
 
 **CHECK OUT ITCH.IO FOR THE GAME ITSELF [Link Coming Soon]**
+
+(I made this game before I knew what classes are, so yes, the code isn't optimized.)
